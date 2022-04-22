@@ -1,1 +1,2 @@
+#Use query string below to test WAF sql injection in azure.
 Query string to test with: /test?name=testing--or 1=1; 
